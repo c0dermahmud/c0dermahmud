@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mahmud Hasan
+# Hi 👋, I'm Mahmud Hasan
 ### Professional Web & Application Developer
 ![Professional Web & Application Developer](https://media-exp1.licdn.com/dms/image/C4E16AQHAaYSeLkck5g/profile-displaybackgroundimage-shrink_200_800/0/1629730458576?e=1635379200&v=beta&t=auNe_-_JR2WzhpLJMlIMvYyWnRpunZ8N_dfeuxUobwk)
 
